@@ -73,6 +73,7 @@ a:hover{
 }
 .web-img {
   width: 15%;
+  border-radius: 100%;
 }
 .code-img{
   width: 15%;
